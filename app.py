@@ -72,7 +72,7 @@ def main():
 
 				if task == "Results":
 					st.subheader("Results")
-					st.write('[Click here for the results: ](https://sh1vam08-ncu-lab-web-app-multiple-disease-pred-ktlhm5.streamlit.app/)')
+					st.write('[Click here for the results: ](https://disease-prediction-uudbgupchmqbe7l5epnpan.streamlit.app/)')
                     
     
 				
